@@ -13,3 +13,5 @@ Your objective is to identify and fix the bug.
 - Clicking the x on a task should remove that task from the list. 
 
 ## Live
+https://nimble-sorbet-38ad8e.netlify.app/
+![vue-task-list-img](https://github.com/GonzaloVolonterio/vue-task-list/assets/64506662/122de735-f633-4fb9-8723-3f4542b355f9)
